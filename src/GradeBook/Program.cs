@@ -14,7 +14,7 @@ namespace GradeBook
             var gradeBookName = Console.ReadLine();
             var book = new Book($"{gradeBookName} gradebook");
 
-            Console.WriteLine("The program will now ask you to enter your grades.");
+            Console.WriteLine("The hello program will now ask you to enter your grades.");
 
             for (var i = 0; i >= 0; i++)
             {
